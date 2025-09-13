@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bio</title>
+</head>
+<body>
+<center>
+<h1>Intro of Myself</h1>
+</center>
+<h2>School Life</h2>
+<p>Hi,I am V.Kanishka.I talk about my school.My school name is Quaide Millath Matriculation Higher Secondary School.
+I studied from L.K.G to 12th grade in thish school.I have lot of memories in this school.</p>
+<center>
+<img src="school.jpg" width="250" height="250">
+</center>
+<h3>My Hobbies and Ambition</h3>
+<p>My hobby is watching movies and drawing pictures.I like cooking.My ambition is become a software developer.
+I wish to build a groceryshop for my father.I want to build a house for my family.</p>
+<center>
+<div>
+<img src="hobby.jpg" width="300" height="300">
+<img src="ambition.jpg" width="300" height="300">
+</div>
+</center><br>
+<h4>My college</h4>
+<p>I am currently doing B.Sc.,Computer Science final year in Dr.M.Sivakkannu Women's Arts and Science College.
+It is located in my hometown and offer various UG and PG courses.The college has good infrastructure and friendly learning environment.</p>
+<center>
+<img src="college.jpg" width="300" height="300">
+</center>
+<center>
+<input type="button" value="Not like it">
+<input type="button" value="Like it">
+</center>
+</body>
+</html>
